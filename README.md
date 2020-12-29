@@ -43,6 +43,11 @@ app.listen(port)
 yarn build
 ```
 
+5. Create new app on Heroku
+   1. Login Heroku
+   2. Dashboard -> New -> Create new app
+   3. 
+
 **References:**
 
 - [Create React.js Hello World Web App and Deploy to Heroku](https://www.youtube.com/watch?v=vuVs7MypC8Y)
